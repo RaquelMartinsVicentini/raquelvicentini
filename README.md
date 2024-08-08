@@ -5,7 +5,7 @@
     Raquel Martins Vicentini</span>
 </h1>
 
-<p align="justify"> Formada em RH, porém atuo na área de Qualidade de Software no clinte Claro Brasil através da NTTDATA Europe & Latam. Amo tecnologia, e tenho como principais Soft Skills: Trabalho em equipe, gerenciamento de tempo, cumunicação, e empatia. Super curiosa e sempre em busca de conhecimento.
+<p align="justify"> Formada em RH, porém atuo na área de Qualidade de Software no cliente Claro Brasil através da NTTDATA Europe & Latam. Amo tecnologia, e tenho como principais Soft Skills: Trabalho em equipe, gerenciamento de tempo, cumunicação, e empatia. Super curiosa e sempre em busca de conhecimento.
 <br>
  Me conheça melhor através do meu instagram <a href="https://www.instagram.com/kelzinhamartinss/">(@kelzinhamartinss)</a>.</p>
 <!--
